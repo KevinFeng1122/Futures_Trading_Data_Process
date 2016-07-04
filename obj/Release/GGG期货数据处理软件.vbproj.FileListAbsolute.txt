@@ -1,0 +1,15 @@
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Release\GGG期货数据处理软件.exe
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Release\GGG期货数据处理软件.pdb
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Release\GGG期货数据处理软件.xml
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\ResolveAssemblyReference.cache
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.Form1.resources
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.Resources.resources
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.vbproj.GenerateResource.Cache
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.exe
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.xml
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.pdb
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Release\GGG期货数据处理软件.exe.CodeAnalysisLog.xml
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Release\GGG期货数据处理软件.exe.lastcodeanalysissucceeded
+I:\专业资料\项目\期货数据处理软件-龚登峰\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.exe
+I:\专业资料\项目\期货数据处理软件-龚登峰\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.xml
+I:\专业资料\项目\期货数据处理软件-龚登峰\GGG期货数据处理软件\GGG期货数据处理软件\obj\Release\GGG期货数据处理软件.pdb

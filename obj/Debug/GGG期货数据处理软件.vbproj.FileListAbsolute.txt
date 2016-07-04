@@ -1,0 +1,20 @@
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.exe
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.pdb
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.xml
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.Form1.resources
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.Resources.resources
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.vbproj.GenerateResource.Cache
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.exe
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.xml
+C:\Users\FENGYIFEI\AppData\Local\Temporary Projects\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.pdb
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.exe
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.xml
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.pdb
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.exe
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.pdb
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\bin\Debug\GGG期货数据处理软件.xml
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.Form1.resources
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.Resources.resources
+F:\项目\GGG-TEST\GGG期货数据处理软件\GGG期货数据处理软件\obj\Debug\GGG期货数据处理软件.vbproj.GenerateResource.Cache
